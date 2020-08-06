@@ -22,11 +22,11 @@ A few years ago, the United States District Court of Houston had a case that ari
 - Cert 
   - 1 = Board certified
   - 0 = not certified
-- Prate Publication rate (# publications on cv)/(# years between CV date and MD date)
-- Exper # years since obtaining MD
+- Prate Publication rate (# publications on cv) / (# years between CV date and MD date)
+- Exper (# years since obtaining MD)
 - Rank 
   - 1 = Assistant
   - 2 = Associate
   - 3 = Full professor (a proxy for productivity)
-- Sal94 Salary in academic year 1994
-- Sal95 Salary after increment to 1994
+- Sal94 (Salary in academic year 1994)
+- Sal95 (Salary after increment to 1994)
